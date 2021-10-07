@@ -1,4 +1,6 @@
-# quotes-app
+<img src="https://raw.githubusercontent.com/krishnawaghmode/quotes-app/main/static/screenshot.png">
+
+# Quotes App
 
 ## Build Setup
 
