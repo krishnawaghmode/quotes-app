@@ -1,4 +1,5 @@
 <img src="https://raw.githubusercontent.com/krishnawaghmode/quotes-app/main/static/screenshot.png">
+
 <img src="https://raw.githubusercontent.com/krishnawaghmode/quotes-app/main/static/screenshot.png">
 
 # Quotes App
